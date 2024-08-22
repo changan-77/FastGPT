@@ -23,7 +23,7 @@ weight: 113
 
 **只支持通过验证的公众号，未通过验证的公众号暂不支持。**
 
-开发者可以从这个链接申请微信公众号的测试号进行测试，测试号可以正常使用，但不能配置 AES Key
+开发者可以从[这个链接](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)申请微信公众号的测试号进行测试，测试号可以正常使用，但不能配置 AES Key
 
 ![图片](/imgs/offiaccount-2.png)
 
